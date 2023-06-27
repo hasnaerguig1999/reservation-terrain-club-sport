@@ -1,0 +1,125 @@
+.rectanglef-375{
+  margin-right: 664px;
+  margin-top: 45px;
+}
+.Nom-du-terrain{
+  margin-left: 20px;
+  color: #ADB5BD;
+}
+.Nom-du-terrainf{
+  margin-top: 11px;
+  border-radius: 8px;
+  border-color: #2125290d;
+  box-shadow: 0px 0px 5px #2125290d;
+  padding: 7px 28px;
+  margin-left: 9px;
+  color:#CED4DA;
+
+}
+.identifiant-du-terrain{
+  margin-left: -297px;
+  color: #CED4DA;
+  margin-top: 46px;
+  white-space: nowrap;
+}
+.identifiant-du-terrainf{
+  margin-left: -118px;
+    border-radius: 8px;
+    border-color: #2125290d;
+    box-shadow: 0px 0px 5px #2125290d;
+    padding: 7px 28px;
+    margin-top: 56px;
+}
+
+.identifiaf{
+  margin-top: -46px;
+    margin-left: -190px;
+}
+
+.actf{
+  margin-top: -165px;
+  margin-left: 67px;
+}
+.acrivitef1{
+  margin: 8px 3px;
+  border-radius: 8px;
+  border-color: #2125290d;
+  box-shadow: 0px 0px 5px #2125290d;
+  padding: 9px 72px;
+  margin-left: -3px;
+}
+.acrivitef{
+  color: #ADB5BD;
+}
+.overlapf-groupf8{
+  margin-left: 661px;
+    margin-top: -81px;
+
+}
+.Capaci-maxf{
+  margin-bottom: 8px;
+  color: #ADB5BD;
+}
+.Capacinp{
+  align-items: flex-start;
+  display: flex;
+  height: 61px;
+  padding:13px 33px;
+  width: 94px;
+  border-radius: 8px;
+  border-color: #2125290d;
+  box-shadow: 0px 0px 5px #2125290d;
+
+}
+.Capacinp{
+  align-items: flex-start;
+  display: flex;
+  height: 43px;
+  padding: 12px 11px;
+  width: 66px;
+  border-radius: 8px;
+  border-color: #2125290d;
+  box-shadow: 0px 0px 5px #2125290d;
+  margin-top: -1px;
+    
+}
+.overlapf-groupf9{
+  margin-top: -26px;
+}
+.joueursf{
+  margin-left: 735px;
+  color: #6C757D;
+}
+.overlapf-groupf10{
+  margin-left: 884px;
+  margin-top: 9px;
+}
+.btnf{
+  background-color: #03A9F4;
+  border: none;
+  border-radius: 19px;
+  padding: 4px 12px;
+  color: white;
+}
+.btnf1{
+  color: #495057;
+    margin-left: 808px;
+}
+.overlapf-groupf11{
+  margin-top: -27px;
+}
+.overlapm-groupmm6{
+ 
+
+    align-items: flex-start;
+    background-color: var(--alabaster);
+    border-radius: 8px;
+    box-shadow: 0px 4.36px 21.79px #2125290d;
+    display: flex;
+    height: 414px;
+    justify-content: flex-end;
+    margin-top: 45px;
+    min-width: 985px;
+    padding:68.7px 51.7px;
+    
+}

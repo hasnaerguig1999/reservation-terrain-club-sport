@@ -1,0 +1,348 @@
+.frameo-8{
+  align-items: flex-start;
+  background-color: #f4f4f4;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  left: 277px;
+  min-height: 945px;
+  padding: 100px 61.9px;
+  position: absolute;
+  top: 0;
+  width: 1163px;
+  margin-top: 79px;
+}
+.overlapo-groupmo6{
+ 
+
+  align-items: flex-start;
+  background-color: var(--alabaster);
+  border-radius: 8px;
+  box-shadow: 0px 4.36px 21.79px #2125290d;
+  display: flex;
+  height: 414px;
+  justify-content: flex-end;
+  margin-top: 45px;
+  /* min-width: 985px; */
+  width: 100%;
+  padding:68.7px 51.7px;
+  
+}
+.texto{
+  color: #495057;
+  font-family:var(--font-family-lora);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 50.3px;
+  margin-left:100.12px;
+  min-height: 51px;
+  white-space:nowrap;
+
+}
+.overlapo-groupo{
+  align-items: flex-start;
+  align-self:flex-end;
+  display: flex;
+  gap:60px;
+  height:670px;
+  min-width:1016px;
+  padding:212.5px 90.1px;
+
+}
+.activiteso-dropmenuo {
+  align-items: flex-start;
+  background-color: var(--alabaster);
+  border: 1px solid;
+  border-color: var(--mishka);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+  padding: 8px 0px;
+  position: relative;
+  width: 353px;
+  margin-top: 92px;
+  margin-right: 165px;
+}
+.itemo-1{
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  padding: 0px 8px;
+  position: relative;
+  
+}
+.containero{
+  align-items: center;
+  display: flex;
+  border-radius: 6px;
+  flex:1;
+  gap:16px;
+  padding:6px 8px;
+  position: relative;
+}
+.containerooo{
+  align-items: center;
+  display: flex;
+  border-radius: 6px;
+  flex:1;
+  gap:16px;
+  padding:6px 8px;
+  position: relative;
+}
+.submenuo{
+  height:20px;
+  min-width:20px;
+  position: relative;
+}
+.optiono{
+  flex:1;
+  letter-spacing: 0.2px;
+  line-height: 24px;
+  margin-top:-1px;
+  position:relative;
+  white-space:nowrap;
+
+}
+.typeo-de-terrainso{
+  align-items: flex-start;
+  background-color: var(--alabaster);
+  border:1px solid ;
+  border-color: var(--mishka);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  overflow:hidden;
+  padding: 8px 0px;
+  position: relative;
+  width: 350px;
+  margin-top: 92px;
+  margin-right: 9px;
+}
+/* .itemoo-1 {
+
+  background-color: var(--alabaster);
+  border: 1px solid;
+  border-color: var(--mishka);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+  padding: 8px 0px;
+  position: relative;
+  width: 353px;
+} */
+.itemooo-1{
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  padding: 0px 8px;
+  position: relative;
+  
+}
+.firstdv{
+  /* margin-right: 765px; */
+  margin-right: 462px;
+  /* margin-right: 662px; */
+  margin-top: -29px;
+}
+.firstlb{
+  color: #ADB5BD;
+    margin-left: 11px;
+}
+.inputo1{
+  margin-top: 4px;
+  padding: 8px 26px;
+  border-radius: 8px;
+  border-color: #2125290d;
+  box-shadow: 0px 0px 5px #2125290d;
+  box-shadow: 0px 4.36px 21.79px #2125290d;
+}
+.labelo2{
+  color: #ADB5BD;
+}
+.seconddv{
+  margin-left: -230px;
+  margin-top: -28px;
+}
+.inputo2{
+  margin-top: 3px;
+  padding: 8px 0;
+  width: 95px;
+  border-radius: 11.19px;
+  border-color: #2125290d;
+  box-shadow: 0px 0px 5px #2125290d;
+  box-shadow: 0px 4.36px 21.79px #2125290d;
+}
+.secondicon{
+  margin-left: 126px;
+  margin-top: -35px;
+}
+.firsticono{
+  color: #4372a4;
+  width: 30px;
+  height: 38px;
+  margin-top: -6px;
+  margin-left: -25px;
+}
+.secondicono{
+  color: #4372a4;
+  width: 30px;
+  height: 38px;
+  margin-left: 111px;
+  margin-top: -74px;
+
+}
+.inputo3{
+  padding: 8px 0;
+    width: 95px;
+    border-radius: 11.19px;
+    border-color: #2125290d;
+    box-shadow: 0px 0px 5px #2125290d;
+    box-shadow: 0px 4.36px 21.79px #2125290d;
+    margin-left: 8px;
+}
+.fourthdv{
+  margin-left: -732px;
+    margin-top: 68px;
+}
+.fourthlb{
+  color: #ADB5BD;
+}
+.inputo4{
+  padding: 8px 26px;
+  border-radius: 8px;
+  border-color: #2125290d;
+  box-shadow: 0px 0px 5px #2125290d;
+  box-shadow: 0px 4.36px 21.79px #2125290d;
+  margin-top: 4px;
+}
+.fourthinp{
+  word-wrap: normal;
+    padding: 8px 74px;
+    border-radius: 8px;
+    border-color: #2125290d;
+    box-shadow: 0px 0px 5px #2125290d;
+    box-shadow: 0px 4.36px 21.79px #2125290d;
+    margin-top: 4px;
+    margin-left: -6px;
+    margin-right: -48px;
+}
+.labelo4{
+  margin-left: 11px;
+}
+.fifthdv{
+  margin-left: -355px;
+  margin-top: 51px;
+}
+.fifthinp{
+  padding: 8px 89px;
+    border-radius: 8px;
+    border-color: #2125290d;
+    box-shadow: 0px 0px 5px #2125290d;
+    box-shadow: 0px 4.36px 21.79px #2125290d;
+    /* margin-top: 23px; */
+    margin-top: 96px;
+    margin-right: 216px;
+}
+.fifthlb{
+  color: #ADB5BD;
+  /* margin-top: 36px; */
+  margin-left: 35px;
+  margin-top: -26px;
+  white-space: nowrap;
+}
+.fifthdvi{
+  margin-left: -121px;
+}
+.sixthinp{
+  margin-left: -857px;
+  margin-top: -16px;
+
+}
+.labelo6{
+  margin-top: 215px;
+  margin-left: -855px;
+  color: #ADB5BD;
+}
+.inputo6{
+  padding: 8px 9px;
+    width: 95px;
+    border-radius: 11.19px;
+    border-color: #2125290d;
+    box-shadow: 0px 0px 5px #2125290d;
+    box-shadow: 0px 4.36px 21.79px #2125290d;
+    margin-top: 23px;
+}
+/* .sixicon{
+  color: #4372a4;
+  width: 30px;
+  height: 38px;
+  margin-top: 140px;
+} */
+.sixicono{
+  color: #4372a4;
+  width: 30px;
+  height: 38px;
+}
+.divicn{
+  margin-left: 104px;
+    margin-top: -42px;
+}
+.seventhdv{
+  margin-top: -519px;
+  margin-left: 514px;
+}
+.inputo7{
+  padding: 8px 9px;
+  width: 95px;
+  border-radius: 11.19px;
+  border-color: #2125290d;
+  box-shadow: 0px 0px 5px #2125290d;
+  box-shadow: 0px 4.36px 21.79px #2125290d;
+  margin-top: 23px;
+}
+.labelo7{
+  margin-top: 36px;
+    margin-left: 4px;
+    color: #ADB5BD;
+    white-space: nowrap;
+}
+.divicn{
+  color: #4372a4;
+  width: 30px;
+  height: 38px;
+}
+.sevenicono{
+  color: #4372a4;
+  width: 30px;
+  height: 38px;
+}
+.eighthdv{
+  margin-top: -416px;
+    margin-left: 412px;
+}
+.eighthlb{
+  margin-left: -244px;
+}
+.btno1{
+  border-color: #039BE5;
+    background-color: white;
+    color: #039BE5;
+    border-radius: 29px;
+    padding: 4px 13px;
+}
+.btno2{
+  border-color: white;
+    background-color: #039BE5;
+    color: white;
+    border-radius: 29px;
+    padding: 4px 13px;
+}
+.eighthinp{
+  margin-top: -35px;
+}

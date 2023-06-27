@@ -1,0 +1,352 @@
+.clientd{
+
+}
+.overlapd-groupd{
+  height: 950px;
+  position: relative;
+  width: 1459px;
+}
+.overlapd-groupd1{
+  height: 959px;
+  left:0;
+  position: absolute;
+  top:0;
+  width: 1442px;
+}
+.framed-22-1{
+  align-items: center;
+  background-color:var(--white);
+  border-radius: 14px;
+  display: flex;
+  gap:32px;
+  height: 43px;
+  left:294px;
+  overflow:hidden;
+  padding:8px 0px 8px 5px;
+  position: absolute;
+  top: 309px;
+  width: 1088px;
+}
+.toggled-checkmarkd{
+  height: 24px;
+  position: relative;
+  min-width: 24px;
+  margin-left: 8px;
+}
+.rectangled-1{
+  background-color:var(--white);
+  border:1px solid;
+  border-color:var(--bombay);
+  border-radius: 4px;
+  height: 16px;
+  left:4px;
+  position: relative;
+  top:4px;
+  width: 16px;
+}
+.dated{
+  height:23px;
+  white-space: nowrap;
+  width: 109px;
+  margin-left: 29px;
+}
+.clientd .dated-1{
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+}
+.framed-22{
+  align-items: center;
+  display: flex;
+  gap:8px;
+  position: relative;
+  width: fit-content;
+}
+.abonnd-1{
+  background-color:var(--neon-carrot);
+  border-radius: 5px;
+  height: 10px;
+  min-width:10px;
+  position: relative;
+}
+.abonnd{
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 73px;
+}
+.phoned{
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: -0.5px;
+  position: relative;
+  white-space: nowrap;
+  width: 130px;
+  
+}
+.client1gmailcom{
+  height:25px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  white-space: nowrap;
+  width: 197px;
+  margin-left: 89px;
+}
+/* input[type="checkbox"] {
+  background: #990000;    
+}
+
+.toggled-checkmarkd {
+ background-color: #990000;  
+
+} */
+/* checkbox{
+  background-color:#03A9F4;
+} */
+.groupd-59{
+  text-align: center;
+  height: 56px;
+    left: 60px;
+    position: absolute;
+    top: 45px;
+    width: 557px;
+    border-radius: 12px;
+    border: none;
+    box-shadow: 0px 11.74px 58.72px #2125290d;
+}
+.framed-21{
+  align-items: center;
+  background-color:var(--white);
+  border-radius: 14px;
+  display: flex;
+  gap:32px;
+  height: 43px;
+  left:293px;
+  overflow:hidden;
+  padding:8px 0px 8px 5px;
+  position: absolute;
+  top: 250px;
+  width: 1089px;
+  margin-left: -269px;
+}
+.kadi{
+  height: 27px;
+  letter-spacing:0;
+  line-height:26px;
+  margin-top:-1px;
+  position: relative;
+  width: 114px;
+}
+.ghita{
+  letter-spacing:0;
+  line-height:26px;
+  margin-top:-0px;
+  position: relative;
+  white-space:nowrap;
+  width: 112px;
+}
+.abonnd-2{
+  background-color:#78a55a;
+  border-radius:5px;
+  height:10px;
+  min-width:10px;
+  position:relative;
+}
+.numberd-1{
+  color:var(--abbey2);
+  font-family:var(--font-family-inter);
+  font-size:var(--font-size-m);
+  font-weight:600;
+  margin-left: -32px;
+}
+.framed-23-1{
+  align-items: center;
+  background-color:var(--white);
+  border-radius: 14px;
+  display: flex;
+  gap:32px;
+  height: 43px;
+  left:294px;
+  overflow:hidden;
+  padding:8px 0px 8px 5px;
+  position: absolute;
+  top: 368px;
+  width: 1088px;
+}
+.framed-19{
+  height:85px;
+  left:1px;
+  position: absolute;
+  top: 32px;
+  width: 1382px;
+}
+.rectangled-353{
+    background-color: #f4f4f4;
+    height: 944px;
+    left: 279px;
+    position: relative;
+    top: 0;
+    width: 1169px;
+    margin-top: -944px;
+}
+.framed-20{
+  margin-left: -304px;
+  align-items: center;
+  border-radius: 14px;
+  display: flex;
+  gap:35px;
+  height: 76px;
+  left:286px;
+  overflow:hidden;
+  padding:11px 12px 11px 21px;
+  position: absolute;
+  top: 149px;
+  width: 1114px;
+}
+.framed-24{
+  align-items: center;
+  display: flex;
+  gap:10px;
+  margin-bottom:-9px;
+  margin-top:-9px;
+  padding:10px 107px 10px 10px;
+  position: relative;
+  width: 127px;
+}
+#ss{
+  background-color: white;
+}
+.searchd{
+  color: #03A9F4;
+  margin-top: 59px;
+  margin-left: 88px;
+  position: absolute;
+  border: none;
+}
+.datedinscription{
+  margin-right: -99.01px;
+  /* margin-top: -1px; */
+  text-align:center;
+  width: 109.1px;
+  margin-top: 21px;
+  margin-left: 26px;
+
+}
+.framed-23{
+  align-items: center;
+  display: flex;
+  gap:10px;
+  padding:10px 10px 10px 0px;
+  position: relative;
+  width: 60px;
+}
+.statutd{
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-right:-10px;
+  margin-top:-1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+.nomd{
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 120px;
+  margin-left: 16px;
+}
+.framed-26{
+  align-items: center;
+  display: flex;
+  gap:10px;
+  justify-content: center;
+  padding:10px ;
+  position: relative;
+  width: 192px;
+}
+.emaild{
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+.prenomd{
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 110px;
+}
+.placed{
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  white-space: nowrap;
+  width: 104.15px;
+}
+.framed-25{
+  align-items: center;
+  display: flex;
+  gap:10px;
+  padding:10px ;
+  position: relative;
+  width:59px;
+}
+.aged{
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+.editd{
+  height: 40px;
+  left: 962px;
+  position: absolute;
+  top: 93px;
+  width: 40px;
+}
+.deled{
+  margin-left: 1004px;
+  padding-top: 97px;
+  height: 40px;
+  width: 40px;
+}
+.uniond-1{
+  color: #03A9F4;
+  border: none;
+  background-color: #f4f4f4;
+}
+button.uniond{
+  color: #03A9F4;
+  border: none;
+  background-color: #f4f4f4;
+  height: 40px;
+    width: 40px;
+    margin-top: -8px;
+}
+.uniond{
+  height: 25px;
+  left: 11px;
+  position: absolute;
+  top: 4px;
+  width: 25px;
+
+}
+.rectangled-349{
+  background-color:var(--alabaster);
+  box-shadow: 0px 4px 20px #212590d;
+  height: 75px;
+  width: 1440px;
+}

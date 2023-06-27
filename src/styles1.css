@@ -1,6 +1,10 @@
 /* variables */
 :root{
   --black:rgba(0,0,0,1);
+  --abbey:rgba(73,80,87,1);
+  --black-coral-pearl:rgba(91,98,112,1);
+  --wild-sand:rgba(244,224,244,1);
+  --pizazz:rgba(255,152,0,1);
   --pale-sky:rgba(108,117,125,1);
   --bombay:rgba(173,181,189,1);
   --mischka:rgba(206,212,218,1);
@@ -12,11 +16,15 @@
   --font-size-xl:18.5px;
   --font-size-xxl:24px;
   --font-size-xxxl:40px;
+  --font-size-xxxs:10px;
   --font-size-xxxxl:64px;
+  --font-size-m2:16px;
+  --font-size-l2:17.9px;
   --font-family-inter:"Inter";
   --font-family-kufam:"Kufam";
   --font-family-lora:"Lora";
   --font-family-poppins:"Poppins";
+  --font-family-poppins-medium:"Poppins Medium";
 
 }
 
@@ -42,6 +50,69 @@
   font-weight:400;
   font-style:normal;
 }
+.inter-medium-alabaster-32-5px{
+  color:var(--alabaster);
+  font-family:var(--font-family-inter);
+  font-size:32.533073425229297px;
+  font-weight:500;
+  font-style:normal;
+}
+.inter-medium-alabaster-32-5px{
+  color:var(--alabaster);
+  font-family:var(--font-family-inter);
+  font-size:var(--font-size-m);
+  font-weight:500;
+  font-style:normal;
+}
+.inter-semi-bold-bombay-15px{
+  color:var(--bombay);
+  font-family:var(--font-family-inter);
+  font-size:var(--font-size-xxs);
+  font-weight:600;
+  font-style:normal;
+}
+.kufam-normall-pale-sky-11-2px{
+  color:var(--pale-sky);
+  font-family:var(--font-family-kufam);
+  font-size:11.192893028259277px;
+  font-weight:400;
+  font-style:normal;
+}
+.inter-medium-abbey-18-1px{
+  color:var(--abbey);
+  font-family:var(--font-family-inter);
+  font-size:var(--font-size-l);
+  font-weight:500;
+  font-style:normal;
+}
+.inter-normal-black-coral-prarl-10px{
+  color:var(--black-coral-pearl);
+  font-family:var(--font-family-inter);
+  font-size:var(--font-size-xxxs);
+  font-weight:400;
+  font-style:normal;
+}
+.kufam-normal-pale-sky-17-9px{
+  color:var(--pale-sky);
+  font-family:var(--font-family-kufam);
+  font-size:var(--font-size-l2);
+  font-weight:400;
+  font-style:normal;
+}
+.inter-normal-abbey-18px{
+  color:var(--abbey);
+  font-family:var(--font-family-inter);
+  font-size:var(--font-size-m);
+  font-weight:400;
+  font-style:normal;
+}
+.poppins-medium-pale-sky-24px{
+  color:var(--pale-sky);
+  font-family:var(--font-family-poppins-medium);
+  font-size:var(--font-size-xxl);
+  font-weight:500;
+  font-style:normal;
+}
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
 .login{
@@ -52,11 +123,11 @@
   height :1024px;
   width:1440px;
 }
-.hidden,
+/* .hidden,
 .hidden * {
   pointer-events:none;
   visibility:hidden;
-}
+} */
 .group-container {
   align-items: flex-start;
   background-color: #f4f4f4;
@@ -111,7 +182,7 @@
   margin-right: 10px;
 }
 .testee{
-  margin-buttom: 70px;
+  margin-bottomom: 70px;
   margin-left: 20px;
 }
 .rectangle {
@@ -397,18 +468,19 @@ a:hover {
   position:relative;
   width: 777px;
 }
-.rectangle-381{
+.rectangleeg-381{
   background-color:#ffe0b2;
   height: 314px;
   left: 0;
   position:absolute;
-  top: 599px;
-  width: 777px;
+  top: -198px;
+  /* width: 777px; */
+  width: 100%;
 }
 .aa{
   color:#4372a4;
 }
-.title{
+.titlee{
   color:var(--white);
   font-family:var(--font-family-lora);
   font-size:var(--font-size-xxxxl);
@@ -418,21 +490,21 @@ a:hover {
   line-height: 176.3px;
   position:absolute;
   text-align:center;
-  top: 0;
+  top: -759px;
   white-space:nowrap;
 }
-.graphique {
+.graphiquee {
   height: 450px;
   left:86px;
   position:absolute;
-  top: 177px;
+  top: -623px;
   width: 605px;
 }
-.group-71{
+.groupe-71{
   height: 42px;
   left: 7px;
   position:absolute;
-  top: 593px;
+  top:  -205px;;
   width:770px;
 }
 .navbar {

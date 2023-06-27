@@ -8,7 +8,7 @@ export default function Login() {
   
       <div className="login screen">
         <div className="group-container">
-          <div className="group-4">
+          <div className="groupe-4">
             <img className="group-5" src="group-5.png" alt='group-5' />
             <div className="admin-logo kufam-bold-pale-sky-17-9px">
               <span className="span0 kufam-bold-pale-sky-17-9px">Admin</span><span className="span1">&nbsp; </span><span className="span2">logo</span>
@@ -63,10 +63,10 @@ export default function Login() {
       </div>
     
       <div className="overlap-group1">
-        <div className="rectangle-381"></div>
-          <img className="group-71" src="group-71.png" alt="group-71" />
-          <img className="graphique" src="graphique.png" alt="graphique" />
-          <h1 className="title">Bienvenue !</h1>
+        <div className="rectangleeg-381"></div>
+          <img className="groupe-71" src="group-71.png" alt="group-71" />
+          <img className="graphiquee" src="graphique.png" alt="graphique" />
+          <h1 className="titlee">Bienvenue !</h1>
         </div>
       </div>
   

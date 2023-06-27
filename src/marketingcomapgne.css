@@ -1,0 +1,244 @@
+.iconsh-mediumh-filterh{
+  height:24px;
+  left:688px;
+  position:absolute;
+  top:174px;
+  width:24px;
+}
+.moreh-verticalh{
+  height:24px;
+  margin-left:59px;
+  width:24px;
+}
+.placeh{
+  color:#212529;
+  font-family:var(--font-family-lora);
+  font-size:var(--font-size-xxl);
+  font-weight:500;
+  left:56px;
+  letter-spacing:0;
+  line-height:28px;
+  /* position:abolute; */
+  top:100px;
+  white-space:nowrap;
+}
+.rectangleh-402{
+  background-color:var(--alabaster);
+  border-radius:20px;
+  box-shadow: 0 4px 20px #2125290d;
+  height:524px;
+  left: 320px;
+  position:absolute;
+  top:256px;
+  width:1048px;
+}
+.frameh{
+  display:flex;
+  position:absolute;
+}
+.frameh-27{
+  align-items:center;
+  background-color:#039be5;
+  border-radius:10px;
+  gap:8px;
+  height:44px;
+  justify-content:center;
+  left: 1126px;
+  padding:12px 12px 12px 0px;
+  top:164px;
+  width:244px;
+}
+.plush{
+  height:20px;
+  min-width:20px;
+  position:relative;
+  background-color: #039be5;
+  border: none;
+}
+.crerh-compagneh{
+  color:var(--white);
+  font-family:var(--font-family-inter);
+  font-size:var(--font-size-s2);
+  font-weight:400;
+  letter-spacing:0;
+  line-height:normal;
+  margin-bottom:-1px;
+  margin-top:-3px;
+  position:relative;
+  white-space:nowrap;
+  width:fit-content
+}
+.filterh-par{
+  color:#6c757d;
+  font-family:var(--font-family-inter);
+  font-size:var(--font-size-m);
+  font-weight:400;
+  left: 352px;
+  letter-spacing:0;
+  line-height:normal;
+  position:absolute;
+  top:178px;
+  white-space:nowrap;
+}
+.dropbarh{
+  align-items:flex-start;
+  background-color:var(--alabaster);
+  border-radius:1px #ced4da;
+  border-radius:10px;
+  box-shadow:0 4px 20px #2125290d;
+  display:flex;
+  gap:89px;
+  left: 459px;
+  padding: 10px 71px;
+  position:absolute;
+  top:166px;
+  width:fit-content;
+}
+.texth-4 {
+  color:#343a40;
+  font-family:var(--font-family-inter);
+  font-size:var(--font-size-m);
+  font-weight:400;
+  margin-top:-1px;
+  position:relative;
+  width:68px;
+}
+.texth-5{
+  letter-spacing:0;
+  line-height:24px;
+  white-space:nowrap;
+}
+.texth-3{
+  margin-left:70px;
+  margin-top:-1px;
+  width:119px;
+}
+.togglek-checkmarkh{
+  align-items:center;
+  display:flex;
+  height:24px;
+  ppadding:0 4px;
+  width:24px;
+}
+.rectangleh-1{
+  background-color:var(--alabaster);
+  border:1px solid;
+  border-color:var(--bombay);
+  border-radius:4px;
+  height:16px;
+  width:16px;
+}
+.texth{
+  letter-spacing:0;
+  line-height:24px;
+  margin-left:16px;
+  margin-top:-1px;
+  white-space:nowrap;
+  width:200px;
+}
+.texth-2 {
+  margin-left:181px;
+  margin-top:-1px;
+  width:200px;
+}
+.marketingh{
+  align-items:flex-start;
+  display:flex;
+  gap:8px;
+  height:24px;
+  margin-left:42px;
+  min-width:89px;
+}
+.texth-1{
+  margin-top:-1px;
+}
+.abonnh-1{
+  align-self:center;
+  background-color:var(--neon-carrot);
+  border-radius:5px;
+  height:10px;
+  width:10px;
+}
+.abonnh{
+  align-self:center;
+  background-color:var(--asparagus);
+  border-radius:5px;
+  height:10px;
+  width:10px;
+}
+.frameh-49{
+  align-items: flex-start;
+  height: 24px;
+  left: 336px;
+  min-width: 1024px;
+  margin-top: -703px;
+}
+.toggleh-checkmarkh-1{
+  height:24px;
+  width:24px;
+}
+.iconsh-mediumh-chevronh-2{
+  height:24px;
+  min-width:24px;
+  position:relative;
+}
+.navbarh{
+  left: 320px;
+  align-items: flex-start;
+  background-color: #e9ecef;
+  border-radius: 15px 15px 0px 0px;
+  display: flex;
+  gap: 70px;
+  height: 46px;
+  padding: 8px 20px;
+  position: absolute;
+  top: 253px;
+  width: 78%;
+}
+.navbarh-likh-texth{
+  letter-spacing:0;
+  line-height:28px;
+  margin-top:-1px;
+  position:relative;
+  white-space:nowrap;
+  width:200px;
+}
+.navbarh-linkh-texth{
+  letter-spacing:0;
+  line-height:28px;
+  margin-top:-1px;
+  position:relative;
+  white-space:nowrap;
+  width:200px;
+}
+#sth{
+  letter-spacing: 0;
+    line-height: 28px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: 200px;
+    left: 23px;
+}
+.eth{
+  margin-right: 40px;
+  left: 18px;
+}
+.dth{
+  left: 19px;
+}
+.pluso{
+  color: white;
+  margin-top: -8px;
+  margin-left: -21px;
+}
+.moreh{
+  background-color: var(--alabaster);
+    border: none;
+    margin-left: 40px;
+}
+.fmasque{
+  position: absolute;
+  margin-top: -907px;
+  left: 346px;
+}

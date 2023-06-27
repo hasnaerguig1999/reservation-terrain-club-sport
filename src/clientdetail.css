@@ -1,0 +1,347 @@
+@import
+url("https://fonts.googleapis.com/css?family=Inter:400,700,600");
+/* variables */
+/* :root{
+  --black:rgba(0,0,0,0,1);
+  --abbey:rgba(73,80,87,0.58);
+  --abbey-2:rgba(73,80,87,0.58);
+  --shakespeare:rgba(84,169,221,1);
+  --alabaster:rgba(248,249,250,1);
+  --white:rgba(255,255,255,1);
+  --font-size-m:23px;
+  --font-size-l:40px;
+  --font-family-inter:"Inter";
+}
+/* classes */
+/* .inter-semi-bold-abbey-23px{
+  color:var(--abbey);
+  font-family:var(--font-family-inter);
+  font-size:var(--font-size-m);
+  font-weight:600;
+  font-style:normal;
+}
+.inter-bold-abbey-23px{
+  color:var(--abbet-2);
+  font-family:var(--font-family-inter);
+  dont-size:var(--font-size-m);
+  font-weight:700;
+  font-style:normal;
+}  */
+.overlapi-groupi2{
+  height: 950px;
+  position: relative;
+  width: 1442px;
+
+}
+.titlei{
+  color:var(--black);
+  font-family:var(--font-family-inter);
+  font-size:var(--font-size-l);
+  font-weight: 400;
+  left:545px;
+  letter-spacing: 0;
+  line-height: 52px;
+  position: absolute;
+  /* top: 78px; */
+  top: 148px;
+  white-space: nowrap;
+  width:217px;
+}
+.rectanglei-353{
+  background-color: #f4f4f4;
+    height: 945px;
+    left: 279px;
+    position: absolute;
+    top: 79px;
+    width: 1163px;
+}
+
+.forgri{
+  margin-left: -10px;
+}
+.overlapi-groupi1{
+  align-items: flex-start;
+  background-color:var(--alabaster);
+  border-radius:22.59px;
+  box-shadow: 0px 4px 20px 2125290d;
+  display: flex;
+  flex-direction: column;
+  left:1023px;
+  min-height: 320px;
+  padding: 44px 43px ;
+  position: absolute;
+  /* top: 269px; */
+  
+    top: 339px;
+
+  width: 341px;
+}
+.rservationi{
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 17px;
+  margin-top: 24px;
+  min-height: 45px;
+  width:163px;
+}
+.flexi-rowi{
+  align-items: flex-start;
+  align-self:flex-end;
+  display: flex;
+  gap:32px;
+  margin-top:10px;
+  min-width:228px;
+}
+.framei-27{
+  align-items: center;
+  background-color:var(--shakespeare);
+  border-radius: 10px;
+  display: flex;
+  gap:8px;
+  height: 58px;
+  justify-content: center;
+  padding:12px;
+  position: relative;
+  width:134px;
+}
+.dtailsi{
+  color:var(--white);
+  font-family:var(--font-family-inter);
+  font-size:var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+.groupi-94{
+  /* height:24px;
+  min-width:24px; */
+  position:relative;
+  margin-top: 14px;
+    height: 39px;
+    color: white;
+    background-color: #55A9DD;
+    border-radius: 10px;
+    border: none;
+    margin-left: -25px;
+}
+.overlapi-groupi{
+  align-items: flex-end;
+  background-color:var(--shakespeare);
+  border-radius: 10px;
+  display: flex;
+  height:58px;
+  justify-content: flex-end;
+  min-width:62px;
+  padding:5px 9px;
+}
+.numberi{
+  color:var(--white);
+  font-family:var(--font-family-inter);
+  font-size:var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height:39px;
+  width: 33px;
+  background-color:#55A9DD;
+  width: 38px;
+    height: 38px;
+    border-radius: 0pc;
+    /* background-color: #55A9DD; */
+    border-radius: 7.5px;
+    text-align: center;
+    padding-top: 10px;
+}
+.groupi-86{
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap:8px;
+  margin-left:2px;
+  margin-top:3px;
+  min-height:92px;
+  width:223px;
+
+}
+.groupi-81{
+  align-items: center;
+  display: flex;
+  gap:8px;
+  height: 39px;
+  min-width: 223px;
+}
+.abonni{
+  background-color:#78a55a;
+  border-radius: 5px;
+  height:10px;
+  margin-bottom: 13px;
+  width: 10px;
+}
+.abonni-1{
+  letter-spacing: 0;
+  line-height: normal;
+  min-height:39px;
+  width: 203px;
+}
+.abonnementi{
+  letter-spacing: 0;
+  line-height: normal;
+  min-height:45px;
+  width: 163px;
+
+}
+.female-symbol-svgrepoi-com-1{
+  height: 20px;
+  left:545px;
+  position: absolute;
+  /* top: 152px; */
+  top: 219px;
+  width: 20px;
+}
+.editi{
+  height:24px;
+  /* left: 689px; */
+  
+  left: 649px;
+
+  position: absolute;
+  /* top: 152px; */
+  top: 217px;
+  width: 24px;
+  border: none;
+  color: var(--bombay);
+  margin-top: -5px;
+  background-color: #f4f4f4;
+}
+.ici{
+
+  margin-top: -9px;
+  color: var(--bombay);
+}
+.avatari{
+  height: 175px;
+  left: 342px;
+  object-fit: cover;
+  position: absolute;
+  /* top: 46px; */
+  top: 117px;
+  width: 169px;
+}
+.madamei{
+  left:573px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  /* top: 149px; */
+  top: 217px;
+  width: 203px;
+}
+.ellipsei-12{
+  background-color:#d9d9d9;
+  border-radius: 83.5px;
+  height: 167px;
+  left: 344px;
+  position: absolute;
+  /* top: 47px; */
+  top: 117px;
+  width: 167px;
+}
+.groupi-93{
+  align-items: flex-start;
+  background-color:var(--alabaster);
+  border-radius: 22.59px;
+  box-shadow: 0px 4px 20px 2125290d;
+  display: flex;
+  flex-direction: column;
+  gap:24px;
+  left:344px;
+  min-height: 344px;
+  padding: 44px 31px;
+  position: absolute;
+  
+  top: 340px;
+
+  width: 631px;
+}
+.groupi-83{
+  align-items:center;
+  display: flex;
+  gap:98px;
+  height: 45px;
+  min-width: 468px;
+}
+.tlphonei{
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 45px;
+  width: 163px;
+}
+.phonei{
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 39px;
+  width: 203px;
+}
+.groupi-84{
+  align-items: center;
+  display: flex;
+  gap:22px;
+  height: 45px;
+  min-width: 467px;
+}
+.datei-de-naissancei{
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 45px;
+  width: 239px;
+}
+.datei{
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2px;
+  min-height: 39px;
+  width: 202px;
+}
+.groupi-82{
+  align-items: flex-start;
+  display: flex;
+  gap:96px;
+  height: 45px;
+  margin-left: 2px;
+  min-width: 510px;
+}
+.emaili{
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 45px;
+  width: 163px;
+}
+.client1gmailcomi {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 39px;
+  width: 247px;
+}
+.groupi-85{
+  align-items: center;
+  display: flex;
+  gap:53px;
+  height: 45px;
+  margin-left: 2px;
+  min-width: 465px;
+}
+.datei-1{
+  min-height: 39px;
+  width: 202px;
+}
+.clienti-detaili .datei-2{
+  letter-spacing: 0;
+  line-height: normal;
+}
+.datei-dinscriptioni{
+  min-height: 45px;
+  width: 206px;
+}

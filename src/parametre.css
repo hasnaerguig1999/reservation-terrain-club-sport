@@ -1,0 +1,19 @@
+.textdd-2{
+  color: var(--abbey);
+  font-family: var(--font-family-lora);
+  font-size: var(--font-size-xxxl);
+  font-weight: 500;
+  line-height: 45.5px;
+  margin-left: -453px;
+  margin-top: -17px;
+}
+.framepp-67{
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 0px 1px #21252914, 0px 2px 2px #2125290f;
+  height: 559px;
+  position: relative;
+  width: 675px;
+  left: -451px;
+  top: 15px;
+}
